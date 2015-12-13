@@ -8,7 +8,19 @@ E' una componente software che deve visualizzare i fotogrammi contenuti in un da
 
 I componenti dell'architettura sono:
 1. Database MySQL
-2. Server PHP (Apache)
+2. Server PHP
+3. Java (Netbeans)
+
+
+## Funzioni Frame Player
+1. Gestisce l'interfaccia utente
+2. Presenta l'elenco di tutti i filmati disponibili nel frame server
+3. Permette di selezionare un filmati e il trasferimento in locale dei fotogrammi.
+4. Consente di spostarsi avanti e indietro di un fotogramma, o saltarne qualcuno.
+5. Consente l'esportazione dei fotogrammi sia come dile sia come file video (formato .avi).
+6. Garantisce tutte queste operazioni mediante un accesso autenticato.
+
+## Requisiti Software
 
 
 ## Team
