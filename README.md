@@ -21,6 +21,12 @@ I componenti dell'architettura sono:
 6. Garantisce tutte queste operazioni mediante un accesso autenticato.
 
 ## Requisiti Software
+1. Sistema operativo: Slackware 14.0
+### Linguaggi Usati
+1. JavaScript
+2. Php
+3. HTML
+4. CSS3
 
 
 ## Team
