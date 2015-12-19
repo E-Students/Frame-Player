@@ -7,6 +7,7 @@ E' una componente software che deve visualizzare i fotogrammi contenuti in un da
 ## Architettura
 
 I componenti dell'architettura sono:
+
 1. Database MySQL
 2. Server PHP
 3. Java (Netbeans)
