@@ -23,11 +23,11 @@ I componenti dell'architettura sono:
 7. Permette di effettuare una selezione tra i fotogrammi e riprodurre la sequenza selezionata.
 
 ## Requisiti Software
-1. Sistema operativo: Slackware 14.0
+1. Sistema operativo: Linux Slackware 14.0
 
 ### Linguaggi Usati
 1. JavaScript
-2. Php
+2. PHP
 3. HTML
 4. CSS3
 
