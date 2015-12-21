@@ -16,10 +16,11 @@ I componenti dell'architettura sono:
 ## Funzioni Frame Player
 1. Gestisce l'interfaccia utente
 2. Presenta l'elenco di tutti i filmati disponibili nel frame server
-3. Permette di selezionare un filmati e il trasferimento in locale dei fotogrammi.
+3. Permette di selezionare un filmato e il trasferimento in locale dei fotogrammi.
 4. Consente di spostarsi avanti e indietro di un fotogramma, o saltarne qualcuno.
 5. Consente l'esportazione dei fotogrammi sia come file immagine (formato .gif o .jpeg) sia come file video (formato .avi).
 6. Garantisce tutte queste operazioni mediante un accesso autenticato.
+7. Permette di effettuare una selezione tra i fotogrammi e riprodurre la sequenza selezionata.
 
 ## Requisiti Software
 1. Sistema operativo: Slackware 14.0
