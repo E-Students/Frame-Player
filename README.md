@@ -10,7 +10,7 @@ I componenti dell'architettura sono:
 
 1. Database MySQL
 2. Server PHP
-3. Java (Netbeans)
+3. Javascript (NetBeans o Brackets)
 
 
 ## Funzioni Frame Player
@@ -18,11 +18,12 @@ I componenti dell'architettura sono:
 2. Presenta l'elenco di tutti i filmati disponibili nel frame server
 3. Permette di selezionare un filmati e il trasferimento in locale dei fotogrammi.
 4. Consente di spostarsi avanti e indietro di un fotogramma, o saltarne qualcuno.
-5. Consente l'esportazione dei fotogrammi sia come dile sia come file video (formato .avi).
+5. Consente l'esportazione dei fotogrammi sia come file immagine (formato .gif o .jpeg) sia come file video (formato .avi).
 6. Garantisce tutte queste operazioni mediante un accesso autenticato.
 
 ## Requisiti Software
 1. Sistema operativo: Slackware 14.0
+
 ### Linguaggi Usati
 1. JavaScript
 2. Php
